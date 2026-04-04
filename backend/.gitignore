@@ -32,3 +32,6 @@ data/*.xlsx
 # IDE
 .vscode/
 .idea/
+
+.python-version
+embeddings/*.npy
