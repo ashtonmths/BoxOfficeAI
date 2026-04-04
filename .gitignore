@@ -16,12 +16,14 @@ env/
 .ipynb_checkpoints/
 
 # ML models
-model/*.pkl
-model/*.joblib
+/backend/model/*.pkl
+/backend/model/*.joblib
 
-# Data files
-data/*.csv
-data/*.xlsx
+# Dataset files
+/data/*.csv
+/data/*.xlsx
+/backend/**/*.csv
+/backend/**/*.xlsx
 
 # Logs
 *.log
@@ -34,4 +36,4 @@ data/*.xlsx
 .idea/
 
 .python-version
-embeddings/*.npy
+/backend/embeddings/*.npy
