@@ -5,9 +5,9 @@ __pycache__/
 *.pyd
 
 # Virtual Environment
-venv/
-.venv/
-env/
+/backend/venv/
+/backend/.venv/
+/backend/ml-env/
 
 # Environment variables
 .env
