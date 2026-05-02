@@ -37,3 +37,4 @@ __pycache__/
 
 .python-version
 /backend/embeddings/*.npy
+/papers/*
